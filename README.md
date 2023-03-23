@@ -26,11 +26,10 @@ mostrados la primera clase, deberás:
 - Al finalizar, además de mostrarse por consola, se visualizará mediante un Alerta el total del contenido de la compra.
 
 ## Lista de Artículos
-Código  | Descripción  | Precio
-------------- | -------------
-1  | Producto  A| $ 233.50
-1  | Producto  B| $ 431.99
-1  | Producto  C| $ 157.20
-1  | Producto  D| $ 510.50
-1  | Producto  E| $ 619.99
-
+| Código | Descripción | Precio |
+| ------------- | ------------- |
+| 1 | Producto A | $ 233.50 |
+| 2 | Producto B | $ 431.99 |
+| 3 | Producto C | $ 157.20 |
+| 4 | Producto D | $ 510.50 |
+| 5 | Producto E | $ 619.99 |
