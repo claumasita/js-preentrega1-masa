@@ -26,6 +26,7 @@ mostrados la primera clase, deberás:
 - Al finalizar, además de mostrarse por consola, se visualizará mediante un Alerta el total del contenido de la compra.
 
 ## Lista de Artículos
+
 | Código | Descripción | Precio |
 | ------------- | ------------- |
 | 1 | Producto A | $ 233.50 |
