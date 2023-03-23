@@ -27,8 +27,9 @@ mostrados la primera clase, deberás:
 
 ## Lista de Artículos
 
+
 | Código | Descripción | Precio |
-| ------------- | ------------- |
+| --- | --- | --- |
 | 1 | Producto A | $ 233.50 |
 | 2 | Producto B | $ 431.99 |
 | 3 | Producto C | $ 157.20 |
